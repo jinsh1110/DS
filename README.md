@@ -1,2 +1,2 @@
-# DS_C
-data structure in C
+# DS
+data structure
